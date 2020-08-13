@@ -4,7 +4,7 @@
 
 ```bash
 docker run -ti pulsarix/aws-sam-cli:latest --version                             
-SAM CLI, version 0.23.0
+SAM CLI, version 0.40.0
 ```
 
 Run aws lambda locally using aws-sam-cli with docker-compose.
